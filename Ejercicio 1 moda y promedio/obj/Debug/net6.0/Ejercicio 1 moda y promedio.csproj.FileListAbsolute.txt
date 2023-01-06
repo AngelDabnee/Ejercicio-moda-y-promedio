@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\bin\Debug\net6.0\Ejercicio 1 moda y promedio.exe
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\bin\Debug\net6.0\Ejercicio 1 moda y promedio.deps.json
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\bin\Debug\net6.0\Ejercicio 1 moda y promedio.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\bin\Debug\net6.0\Ejercicio 1 moda y promedio.dll
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\bin\Debug\net6.0\Ejercicio 1 moda y promedio.pdb
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\Ejercicio 1 moda y promedio.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\Ejercicio 1 moda y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\Ejercicio 1 moda y promedio.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\Ejercicio 1 moda y promedio.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\Ejercicio 1 moda y promedio.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\Ejercicio 1 moda y promedio.dll
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\refint\Ejercicio 1 moda y promedio.dll
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\Ejercicio 1 moda y promedio.pdb
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\Ejercicio 1 moda y promedio.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 1 moda y promedio\Ejercicio 1 moda y promedio\obj\Debug\net6.0\ref\Ejercicio 1 moda y promedio.dll
